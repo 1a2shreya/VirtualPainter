@@ -1,0 +1,17 @@
+# Core Dependencies (required for v3.0)
+opencv-python>=4.8.0
+mediapipe>=0.10.0
+numpy>=1.24.0
+Pillow>=10.0.0
+
+# Voice Features (required for voice input/output)
+SpeechRecognition>=3.10.0
+PyAudio>=0.2.13
+pyttsx3>=2.90
+
+# Phase 2 Optional Dependencies (uncomment as needed)
+# ultralytics>=8.0.0     # YOLO object detection
+# diffusers>=0.21.0      # Stable Diffusion integration
+# scipy>=1.10.0          # Handwriting smoothing
+# torch>=2.0.0           # Deep learning framework
+# torchvision>=0.15.0    # Computer vision models
